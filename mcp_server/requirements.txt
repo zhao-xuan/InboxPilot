@@ -1,0 +1,4 @@
+httpx>=0.25.0
+mcp>=1.0.0
+asyncio
+python-dotenv>=1.0.0 
