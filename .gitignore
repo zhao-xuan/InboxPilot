@@ -1,3 +1,12 @@
+# Credentials and tokens (NEVER commit these!)
+credentials.json
+token.json
+*.json.backup
+
+# ChromaDB data directories (contains personal data)
+chromadb_data/
+venv311/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
